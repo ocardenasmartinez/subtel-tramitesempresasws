@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 	<properties>
 		<springframework.version>5.1.0.RELEASE</springframework.version>
-		<jackson.library>2.9.9</jackson.library>
+		<jackson.library>2.9.10.8</jackson.library>
 	</properties>
 	<dependencies>
 		<dependency>
